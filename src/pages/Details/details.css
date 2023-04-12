@@ -48,6 +48,7 @@
     margin-bottom: 1rem;
     font-size: 110%;
     text-align: justify;
+    white-space: break-spaces; 
     
 }
 .container-details h3 {
@@ -71,6 +72,6 @@
         display: flex;
         width: 100%;
         justify-content: center;
-        white-space: inherit; 
+        
     }
 }
