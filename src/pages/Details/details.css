@@ -49,7 +49,7 @@
     font-size: 110%;
     text-align: justify;
     white-space: break-spaces; 
-    
+    hyphens: auto;
 }
 .container-details h3 {
     color: #6654da;
