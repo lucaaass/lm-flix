@@ -50,7 +50,9 @@
     text-align: justify;
     
 }
-
+.container-details h3 {
+    color: #6654da;
+}
 .container-details .release-date{
     opacity: 0.5;
 }
@@ -60,5 +62,15 @@
     .container-details .movie{
         display: flex;
         flex-direction: column;
+    }
+    .container-details .details {
+        max-width: 70%;
+        margin-left: 0;
+    }
+    .container-details h1 {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        white-space: inherit; 
     }
 }
